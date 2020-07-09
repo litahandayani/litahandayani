@@ -5,12 +5,13 @@
 -->
 
 - 🌱 I’m currently learning 
-  •	Python 
-  •	Java 
-  •	JavaScript
-.
+-    •	Python 
+-    •	Java 
+-    •	JavaScript
+  
+  
 - 📫 How to reach me: 
-  •	https://twitter.com/lita_tpbln
-  •	https://www.linkedin.com/in/lita-handayani
+-    •	https://twitter.com/lita_tpbln
+-    •	https://www.linkedin.com/in/lita-handayani
 
 
